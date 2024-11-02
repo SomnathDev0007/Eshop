@@ -3,7 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>somnath</h1>
+   <div className="header_logo"></div>
+   <div className="temporary"></div>
     </div>
   );
 }
